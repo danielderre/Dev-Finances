@@ -42,3 +42,6 @@ The project layout can be accessed throughout [this link](https://www.figma.com/
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for more information.
 
 ---
+<h4 align="center">
+    Developed by Daniel Fernandes Derré Torres | <a href="https://www.linkedin.com/in/danielderre/" target="linkedin.com/in/danielderre">Contact me!</a>
+</h4>
